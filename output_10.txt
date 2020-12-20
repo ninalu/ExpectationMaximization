@@ -1,0 +1,77 @@
+Starting parameter set 0: 
+Iteration    log_likelihood   delta
+0            -360.91      0
+1         -358.356         2.55447
+2         -358.354         0.00186582
+3         -358.354         8.15066e-006
+                             Probability	   Starting parameter	     final parameters
+                             P(gender=M)	             0.700000	             0.642470
+     P(weight=greater_than_130|gender=M)	             0.700000	             0.661916
+     P(weight=greater_than_130|gender=F)	             0.800000	             0.794431
+     P(height= greater_than_55|gender=M)	             0.300000	             0.264981
+     P(height= greater_than_55|gender=F)	             0.400000	             0.348508
+Starting parameter set 1: 
+Iteration    log_likelihood   delta
+0            -447.006      0
+1         -358.875         88.1308
+2         -358.356         0.518789
+3         -358.354         0.00232667
+4         -358.354         9.68678e-006
+                             Probability	   Starting parameter	     final parameters
+                             P(gender=M)	             0.687267	             0.642467
+     P(weight=greater_than_130|gender=M)	             0.447593	             0.661915
+     P(weight=greater_than_130|gender=F)	             0.638629	             0.794430
+     P(height= greater_than_55|gender=M)	             0.885609	             0.264987
+     P(height= greater_than_55|gender=F)	             0.425948	             0.348513
+Starting parameter set 2: 
+Iteration    log_likelihood   delta
+0            -596.193      0
+1         -359.788         236.405
+2         -358.362         1.42616
+3         -358.354         0.00774565
+4         -358.354         3.85979e-005
+                             Probability	   Starting parameter	     final parameters
+                             P(gender=M)	             0.113396	             0.642447
+     P(weight=greater_than_130|gender=M)	             0.223273	             0.661928
+     P(weight=greater_than_130|gender=F)	             0.507448	             0.794431
+     P(height= greater_than_55|gender=M)	             0.515606	             0.264986
+     P(height= greater_than_55|gender=F)	             0.618581	             0.348536
+Starting parameter set 3: 
+Iteration    log_likelihood   delta
+0            -518.259      0
+1         -358.824         159.435
+2         -358.357         0.467102
+3         -358.354         0.0028598
+4         -358.354         1.68742e-005
+                             Probability	   Starting parameter	     final parameters
+                             P(gender=M)	             0.239124	             0.642451
+     P(weight=greater_than_130|gender=M)	             0.888791	             0.661929
+     P(weight=greater_than_130|gender=F)	             0.393852	             0.794434
+     P(height= greater_than_55|gender=M)	             0.105940	             0.264979
+     P(height= greater_than_55|gender=F)	             0.734653	             0.348526
+Starting parameter set 4: 
+Iteration    log_likelihood   delta
+0            -530.999      0
+1         -359.663         171.336
+2         -358.361         1.30201
+3         -358.354         0.00693775
+4         -358.354         3.35195e-005
+                             Probability	   Starting parameter	     final parameters
+                             P(gender=M)	             0.192477	             0.642449
+     P(weight=greater_than_130|gender=M)	             0.335740	             0.661926
+     P(weight=greater_than_130|gender=F)	             0.406358	             0.794431
+     P(height= greater_than_55|gender=M)	             0.532709	             0.264987
+     P(height= greater_than_55|gender=F)	             0.620462	             0.348534
+Starting parameter set 5: 
+Iteration    log_likelihood   delta
+0            -519.833      0
+1         -358.955         160.878
+2         -358.357         0.598163
+3         -358.354         0.00273035
+4         -358.354         1.11036e-005
+                             Probability	   Starting parameter	     final parameters
+                             P(gender=M)	             0.645669	             0.642459
+     P(weight=greater_than_130|gender=M)	             0.197418	             0.661921
+     P(weight=greater_than_130|gender=F)	             0.229888	             0.794430
+     P(height= greater_than_55|gender=M)	             0.152641	             0.264986
+     P(height= greater_than_55|gender=F)	             0.572308	             0.348523
